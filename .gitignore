@@ -1,0 +1,43 @@
+# Go binary files
+*.exe
+*.exe~
+*.out
+*.app
+*.dSYM/
+
+#DB
+*.db
+
+# Go workspace files
+*.test
+
+# Go build output
+/bin/
+/obj/
+
+# Dependency directories
+/vendor/
+
+# Go modules cache
+/go/pkg/
+
+# IDE or editor-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Go coverage reports
+*.coverage
+*.cov
+*.out
+
+# Log files
+*.log
+
+# Temporary files created by Go (e.g., during testing)
+*.tmp

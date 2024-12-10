@@ -7,6 +7,10 @@
 
 #DB
 *.db
+*tmp
+*.mod
+*.toml
+*.sum
 
 # Go workspace files
 *.test
